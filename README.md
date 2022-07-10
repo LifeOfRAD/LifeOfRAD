@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LifeOfRAD
 - 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning to code an addon for SlimeFun
 - 📫 How to reach me Discord @LifeOfRAD#1999
 
 <!---
